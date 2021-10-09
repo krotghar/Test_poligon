@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258491048234",
+    "project_id": "test-poligon",
+    "storage_bucket": "test-poligon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258491048234:android:b6688ba9b05125b953fe53",
+        "android_client_info": {
+          "package_name": "com.hedgehog.testpoligon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258491048234-s8e7jim8td9vtm7ejugjj2huf1aehqgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKF6DDuhia2sIn3PeswgT374I0-_dZIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258491048234-s8e7jim8td9vtm7ejugjj2huf1aehqgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/background"
+        android:drawable="@drawable/prg_bg">
+    </item>
+    <item android:id="@+id/progress">
+        <clip android:drawable="@drawable/prg"
+            android:clipOrientation="horizontal"
+            android:gravity="start"/>
+    </item>
+
+</layer-list>
